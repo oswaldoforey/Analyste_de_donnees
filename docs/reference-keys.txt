@@ -1,0 +1,15 @@
+mon-offre
+exemples-de-réalisations
+productions-de-rapports-de-synthèse
+explorations-des-données-brutes
+préparation-des-données
+graphiques-et-tableaux-de-synthèse
+statistiques
+applications-shiny
+conditions-de-travail
+modalités
+tarifs
+qui-suis-je
+expériences-professionnelles
+formations
+contacts
