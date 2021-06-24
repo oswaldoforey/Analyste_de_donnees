@@ -16,3 +16,42 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+# Mon offre
+
+::: {align="justify"}
+Je propose mes services en tant qu'analyste de données pour des projets
+de recherche en sciences de la vie, **avec un tropisme pour les projets
+en agroécologie, agronomie et écologie**, étant titulaire d'un master en
+écologie et d'un doctorat en agronomie, et souhaitant mettre mes
+compétences au service de la transition agroécologique.\
+\
+Je peux travailler sur les données de votre structure tout comme
+intégrer comme partenaire un projet de recherche annuel ou pluri-annuel
+(CASDAR, ANR, projet européen, etc.) et prendre en charge le volet
+analyse de données, c'est à dire :
+
+-   la préparation des données (nettoyage, fusion de tableaux,
+    structuration du tableau, etc.), et ce en lien avec les
+    notateur-rice-s pour optimiser les feuilles de notation et faciliter
+    la saisie et l'analyse
+
+-   la production des résultats publiables (tableaux de synthèse,
+    graphiques)
+
+-   l'analyse statistique pour des modèles classiques (régressions
+    linéaires, anovas, ACP)
+
+-   la production de rapports de synthèse
+
+Je propose également de développer des applications interactives
+(package shiny) qui peuvent être utilisées par les partenaires pour
+explorer les données à la souris (sans codage) ou pour créer des
+tableaux de bords de synthèse des résultats, et ce dès la saisie des
+premières données, afin de pouvoir s'adapter à d'éventuels aléas
+nécessitant la modification du protocole de suivi et de récolte des
+données.
+
+J'utilise le logiciel RStudio, le package Tidyverse et le format
+Rmarkdown et propose pendant la durée du projet de former les
+partenaires intéressé-e-s à leur utilisation.
+:::
