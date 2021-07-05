@@ -36,7 +36,7 @@ height="200px"}
     d'engrais, compartiment (racines et feuilles), inoculation en
     mycorhizes)
 
-```{r echo=FALSE}
+```{r echo=FALSE, out.height="40%", out.width="50%"}
 
 knitr::include_graphics('img/brutes_facteurs_croises.png')
 
@@ -50,22 +50,16 @@ height="200px"}![](img/rapport_biplot.png){width="300" height="200px"}
 ## Préparation des données
 
 -   Restructuration (une colonne = une variable; une ligne = une
-    observation) d'un tableau sorti d'une machine + création des
-    colonnes d'identifiants individus + fusion de tableaux
+    observation) d'un tableau sorti d'une machine + fusion de tableaux + création des
+    colonnes d'identifiants individus + retranchement des blancs + moyennes des triplicats
 
 ![](img/sortie_machine_Victoria.png)
-
--   Restructuration (une colonne = une variable; une ligne = une
-    observation) du tableau de données brutes + création des colonnes
-    d'identifiants individus + fusion de tableaux
-
-![](img/moules.png)
 
 ## Graphiques et tableaux de synthèse
 
 -   Ratios entre variables
 
-![](img/ratios.png){width="300" height="200px"}
+![](img/ratios.png){width="400" height="300px"}
 
 -   Moyennes et écart-types
 
@@ -88,7 +82,7 @@ height="200px"}![](img/moyennes_article.png){width="300" height="200px"}
 
 ## Applications shiny
 
--   Application d'autoévaluation à ma formation par les participant-e-s
+-   Application d'autoévaluation à ma formation par les participant-e-s (la capture d'écran ne rend pas justice à la qualité du rendu de l'application...)
 
 ![](img/shiny_app.png){width="300" height="200px"}
 
@@ -96,14 +90,11 @@ height="200px"}![](img/moyennes_article.png){width="300" height="200px"}
 
 ## Modalités
 
-Je privilégie le travail en distanciel, pour des raisons familiales (ma
-femme a la santé fragile) et écologiques, mon activité étant tout a fait
-compatible avec cette modalité.
+Je privilégie le travail en distanciel, pour des raisons familiales, ma femme étant valétudinaire, et écologiques, mon activité étant tout a fait compatible avec cette modalité.
 
 ## Tarifs
 
-Je propose mes prestations au tarif de 30€ de l'heure, soit 210€ la
-journée.
+Je propose mes prestations au tarif de 30€ de l'heure, soit 210€ la journée.
 
 ## Qui suis-je?
 
