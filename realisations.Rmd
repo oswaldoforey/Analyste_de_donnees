@@ -98,6 +98,8 @@ Je propose mes prestations au tarif de 30€ de l'heure, soit 210€ la journée
 
 ## Qui suis-je?
 
+![](img/le_formateur.png) 
+
 ::: {align="justify"}
 Je m'appelle Oswaldo Forey, passionné par la recherche en agroécologie
 et les méthodes permettant de faire parler les données et de les
@@ -120,8 +122,7 @@ Production de 7 rapports à partir de 27 jeux de données
 -   **Formateur à RStudio/Tidyverse/Rmarkdown - Micro-entrepreneur -
     2018 à aujourd'hui**
 
-Production de 26 rapports d'accompagnement de participant-e-s
-post-formation
+Production de 26 rapports d'accompagnement de participant-e-s post-formation
 
 ## Formations
 
@@ -129,10 +130,6 @@ post-formation
 
 -   Master 2 en écologie - Université de Monptellier - 2013
 :::
-
-<br>
-
-![](img/le_formateur.png) <br>
 
 ## Contacts
 
