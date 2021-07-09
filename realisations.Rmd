@@ -105,9 +105,6 @@ journée.
 
 ## Qui suis-je ?
 
-
-![](img/le_formateur.png){width="300" height="200px"}
-
 ::: {align="justify"}
 Je m'appelle Oswaldo Forey, passionné par la recherche en agroécologie
 et les méthodes permettant de faire parler les données et de les
@@ -120,6 +117,9 @@ sciences appliquée à l'agroécologie, sur les questions de l'utilisation
 des "lois" de l'écologie et des styles de raisonnement scientifiques
 (Crombie, 1981) pour la création d'une méthode générique de conception
 d'agroécosystèmes (<https://doi.org/10.1007/s40656-020-00336-9>).
+
+![](img/le_formateur.png){width="300" height="200px"}
+
 :::
 
 ## Expériences professionnelles
