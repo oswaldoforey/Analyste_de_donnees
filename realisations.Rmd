@@ -10,7 +10,8 @@ editor_options:
 
 -   Format html ou pdf
 
-![](img/rapport_markdown_brutes.png){width="300" height="400"}![](img/rapport_pdf.png){width="300" height="400"}
+![](img/rapport_markdown_brutes.png){width="300"
+height="400"}![](img/rapport_pdf.png){width="300" height="400"}
 
 ```{r eval=FALSE, include=FALSE, out.width="100%"}
 
@@ -50,8 +51,9 @@ height="200px"}![](img/rapport_biplot.png){width="300" height="200px"}
 ## Préparation des données
 
 -   Restructuration (une colonne = une variable; une ligne = une
-    observation) d'un tableau sorti d'une machine + fusion de tableaux + création des
-    colonnes d'identifiants individus + retranchement des blancs + moyennes des triplicats
+    observation) d'un tableau sorti d'une machine + fusion de tableaux +
+    création des colonnes d'identifiants individus + retranchement des
+    blancs + moyennes des triplicats
 
 ![](img/sortie_machine_Victoria.png)
 
@@ -82,7 +84,9 @@ height="200px"}![](img/moyennes_article.png){width="300" height="200px"}
 
 ## Applications shiny
 
--   Application d'autoévaluation à ma formation par les participant-e-s (la capture d'écran ne rend pas justice à la qualité du rendu de l'application...)
+-   Application d'autoévaluation à ma formation par les participant-e-s
+    (la capture d'écran ne rend pas justice à la qualité du rendu de
+    l'application...)
 
 ![](img/shiny_app.png){width="300" height="200px"}
 
@@ -90,15 +94,18 @@ height="200px"}![](img/moyennes_article.png){width="300" height="200px"}
 
 ## Modalités
 
-Je privilégie le travail en distanciel, pour des raisons familiales, ma femme étant valétudinaire, et écologiques, mon activité étant tout a fait compatible avec cette modalité.
+Je privilégie le travail en distanciel, pour des raisons familiales, ma
+femme étant valétudinaire, et écologiques, mon activité étant tout a
+fait compatible avec cette modalité.
 
 ## Tarifs
 
-Je propose mes prestations au tarif de 30€ de l'heure, soit 210€ la journée.
+Je propose mes prestations au tarif de 30€ de l'heure, soit 210€ la
+journée.
 
 ## Qui suis-je ?
 
-![](img/le_formateur.png) 
+![](img/le_formateur.png){width="300" height="200px"}
 
 ::: {align="justify"}
 Je m'appelle Oswaldo Forey, passionné par la recherche en agroécologie
@@ -112,6 +119,7 @@ sciences appliquée à l'agroécologie, sur les questions de l'utilisation
 des "lois" de l'écologie et des styles de raisonnement scientifiques
 (Crombie, 1981) pour la création d'une méthode générique de conception
 d'agroécosystèmes (<https://doi.org/10.1007/s40656-020-00336-9>).
+:::
 
 ## Expériences professionnelles
 
@@ -122,14 +130,14 @@ Production de 7 rapports à partir de 27 jeux de données
 -   **Formateur à RStudio/Tidyverse/Rmarkdown - Micro-entrepreneur -
     2018 à aujourd'hui**
 
-Production de 26 rapports d'accompagnement de participant-e-s post-formation
+Production de 26 rapports d'accompagnement de participant-e-s
+post-formation
 
 ## Formations
 
 -   Doctorat en agronomie - UMR ABSys (INRAE Montpellier) - 2016
 
 -   Master 2 en écologie - Université de Monptellier - 2013
-:::
 
 ## Contacts
 
@@ -140,6 +148,8 @@ M Oswaldo FOREY\
 [oswaldoforey\@gmail.com](mailto:oswaldoforey@gmail.com){.email}\
 tel : 04 27 63 96 07
 
-Site internet analyste de données:\
+Site internet analyste de données :
+<https://oswaldoforey.github.io/Analyste_de_donnees/>
+
 Site internet formateur :
 <https://oswaldoforey.github.io/Website_bookdown/>
