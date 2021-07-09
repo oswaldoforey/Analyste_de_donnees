@@ -105,6 +105,7 @@ journée.
 
 ## Qui suis-je ?
 
+
 ![](img/le_formateur.png){width="300" height="200px"}
 
 ::: {align="justify"}
