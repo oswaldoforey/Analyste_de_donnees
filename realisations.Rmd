@@ -118,8 +118,7 @@ des "lois" de l'écologie et des styles de raisonnement scientifiques
 (Crombie, 1981) pour la création d'une méthode générique de conception
 d'agroécosystèmes (<https://doi.org/10.1007/s40656-020-00336-9>).
 
-![](img/le_formateur.png){width="300" height="200px"}
-
+![](img/le_formateur_low_res.png)
 :::
 
 ## Expériences professionnelles
